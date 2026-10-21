@@ -73,6 +73,3 @@
     <button onclick="alert('Мама, я тебя очень люблю! ❤️')">Нажми на меня!</button>
 </body>
 </html>
-    <button onclick="alert('Мама, я тебя очень люблю! ❤️')">Нажми на меня!</button>
-</body>
-</html>
