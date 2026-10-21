@@ -63,19 +63,19 @@
 
 <div class="photo-block">
     <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-        <img src="one.png" alt="a" height="400" width="520">
+        <img src="photo/one.png" alt="a" height="400" width="520">
         <p style="margin: 0; text-align: center; max-width: 520px;">
             Спасибо тебе за твое тепло, заботу и поддержку
         </p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-        <img src="two.png" alt="b" height="400">
+        <img src="photo/two.png" alt="b" height="400">
         <p style="margin: 0; text-align: center; max-width: 300px;">
              Спасибо за твою любовь
         </p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-        <img src="three.JPG" alt="c" height="400">
+        <img src="photo/three.JPG" alt="c" height="400">
         <p style="margin: 0; text-align: center; max-width: 300px;">
             Ты самая лучшая на свете
         </p>
@@ -84,19 +84,19 @@
 <br>
 <div class="photo-block">
     <div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
-        <img src="four.JPG" alt="a" height="400" width="520">
+        <img src="photo/four.JPG" alt="a" height="400" width="520">
         <p style="margin: 0; text-align: center; max-width: 520px;">
             Спасибо за то, что показала нам мир
         </p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-        <img src="six.png" alt="b" height="400">
+        <img src="photo/six.png" alt="b" height="400">
         <p style="margin: 0; text-align: center; max-width: 300px;">
             Спасибо за то, что воспитала нас
         </p>
     </div>
       <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-        <img src="five.png" alt="c" height="400">
+        <img src="photo/five.png" alt="c" height="400">
         <p style="margin: 0; text-align: center; max-width: 300px;">
             И просто за то, что ты — наша мама
         </p>
