@@ -84,15 +84,18 @@
     </div>
 </div>
     <br>
-    <button onclick="alert('Мама, я тебя очень люблю! ❤️')">Нажми на меня!</button>  
+    <button onclick="alert('Мама, я тебя очень люблю! ❤️')">Нажми на меня!</button> 
+    <br>
     <audio id="bg-music" loop>
         <source src="music.mp3" type="audio/mpeg">
     </audio>
-    <button onclick="document.getElementById('bg-music').play()" style="background-color: #a88beb; margin-top: 10px;">
-        Включить музыку 🎵
-    </button>
-    <div style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
-        <img src="mili.png" alt="Фото" height="150" style="border-radius: 15px;">
+    <div style="text-align: center; margin: 20px 0;">
+        <button onclick="document.getElementById('bg-music').play()" style="padding: 10px 20px; font-size: 16px; background-color: #a88beb; color: white; border: none; border-radius: 20px; cursor: pointer; margin-right: 10px;">
+            Включить 🎵
+        </button>
+        <button onclick="document.getElementById('bg-music').pause()" style="padding: 10px 20px; font-size: 16px; background-color: #ff6b81; color: white; border: none; border-radius: 20px; cursor: pointer;">
+            Выключить 🔇
+        </button>
     </div>  
 </body>
 </html>  
